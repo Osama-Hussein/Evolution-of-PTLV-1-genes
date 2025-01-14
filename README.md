@@ -1,5 +1,5 @@
 # Evolution of primate T-cell leukemia virus type 1 auxiliary genes and functional divergence of its antisense proteins 
-# Evolution-of-PTLV-1-genes
+## Evolution of PTLV-1 genes
 
 Human T-cell leukemia virus type 1 (HTLV-1) is derived from simian T-cell leukemia virus type 1 (STLV-1), and together they form a broader category known as primate T-cell leukemia virus type 1 (PTLV-1). HTLV-1 encodes multiple proteins from overlapping open reading frames (ORFs) in the pX region. 
 
